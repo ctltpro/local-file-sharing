@@ -1,0 +1,14 @@
+.filepond--credits {
+    display:none
+}
+body {
+    overflow-x:hidden
+}
+
+#rightRow,
+#leftRow {
+    height:99vh
+}
+#rightRow {
+    overflow-y: auto;
+}
